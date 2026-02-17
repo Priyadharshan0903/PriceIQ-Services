@@ -1,0 +1,286 @@
+[
+  {
+    "name": "MacBook Pro 16-inch M3 Pro",
+    "brand": "Apple",
+    "category": "Laptops",
+    "price": 2499,
+    "images": ["https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6534/6534606_sd.jpg"],
+    "specifications": {
+      "Processor": "Apple M3 Pro",
+      "RAM": "18GB",
+      "Storage": "512GB SSD",
+      "Display": "16.2-inch Liquid Retina XDR",
+      "Graphics": "Integrated GPU",
+      "Battery": "Up to 22 hours",
+      "Weight": "4.7 lbs"
+    },
+    "stock": 25
+  },
+  {
+    "name": "Dell XPS 15",
+    "brand": "Dell",
+    "category": "Laptops",
+    "price": 1899,
+    "images": ["https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-15-9530/media-gallery/xs9530-cnb-00000rf-sl.psd"],
+    "specifications": {
+      "Processor": "Intel Core i7-13700H",
+      "RAM": "16GB",
+      "Storage": "512GB SSD",
+      "Display": "15.6-inch FHD+",
+      "Graphics": "NVIDIA GeForce RTX 4050",
+      "Battery": "Up to 13 hours",
+      "Weight": "4.23 lbs"
+    },
+    "stock": 30
+  },
+  {
+    "name": "HP Spectre x360 14",
+    "brand": "HP",
+    "category": "Laptops",
+    "price": 1449,
+    "images": ["https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08262084.png"],
+    "specifications": {
+      "Processor": "Intel Core i7-1355U",
+      "RAM": "16GB",
+      "Storage": "1TB SSD",
+      "Display": "13.5-inch OLED",
+      "Graphics": "Intel Iris Xe",
+      "Battery": "Up to 16 hours",
+      "Weight": "3 lbs"
+    },
+    "stock": 20
+  },
+  {
+    "name": "ASUS ROG Zephyrus G14",
+    "brand": "ASUS",
+    "category": "Laptops",
+    "price": 1649,
+    "images": ["https://dlcdnwebimgs.asus.com/gain/2a9f5b42-0e0b-4f7e-bb29-5b6f4c3e6df5/"],
+    "specifications": {
+      "Processor": "AMD Ryzen 9 7940HS",
+      "RAM": "16GB",
+      "Storage": "1TB SSD",
+      "Display": "14-inch QHD+",
+      "Graphics": "NVIDIA GeForce RTX 4060",
+      "Battery": "Up to 10 hours",
+      "Weight": "3.64 lbs"
+    },
+    "stock": 15
+  },
+  {
+    "name": "iPhone 15 Pro Max",
+    "brand": "Apple",
+    "category": "Smartphones",
+    "price": 1199,
+    "images": ["https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6525/6525410_sd.jpg"],
+    "specifications": {
+      "Display": "6.7-inch Super Retina XDR",
+      "Processor": "A17 Pro chip",
+      "Storage": "256GB",
+      "Camera": "48MP Main + 12MP Ultra Wide + 12MP Telephoto",
+      "Battery": "Up to 29 hours video",
+      "5G": "Yes",
+      "Weight": "7.81 oz"
+    },
+    "stock": 50
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "price": 1299,
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/levant/2401/gallery/levant-galaxy-s24-ultra-s928-sm-s928bztgmea-539308898"],
+    "specifications": {
+      "Display": "6.8-inch Dynamic AMOLED 2X",
+      "Processor": "Snapdragon 8 Gen 3",
+      "Storage": "256GB",
+      "RAM": "12GB",
+      "Camera": "200MP Main + 12MP Ultra Wide + 50MP Telephoto + 10MP Telephoto",
+      "Battery": "5000mAh",
+      "5G": "Yes",
+      "Weight": "8.22 oz"
+    },
+    "stock": 40
+  },
+  {
+    "name": "Google Pixel 8 Pro",
+    "brand": "Google",
+    "category": "Smartphones",
+    "price": 999,
+    "images": ["https://lh3.googleusercontent.com/P2cLmfBDx4k3y-0RBqnDaTLhT1QRKjF2JCKQeQtQfAhQmQ9kOzOOw7J8qGbcYZqT"],
+    "specifications": {
+      "Display": "6.7-inch LTPO OLED",
+      "Processor": "Google Tensor G3",
+      "Storage": "128GB",
+      "RAM": "12GB",
+      "Camera": "50MP Main + 48MP Ultra Wide + 48MP Telephoto",
+      "Battery": "5050mAh",
+      "5G": "Yes",
+      "Weight": "7.5 oz"
+    },
+    "stock": 35
+  },
+  {
+    "name": "OnePlus 12",
+    "brand": "OnePlus",
+    "category": "Smartphones",
+    "price": 799,
+    "images": ["https://oasis.opstatics.com/content/dam/oasis/page/2024/global/products/12/specs/green-img.png"],
+    "specifications": {
+      "Display": "6.82-inch AMOLED",
+      "Processor": "Snapdragon 8 Gen 3",
+      "Storage": "256GB",
+      "RAM": "12GB",
+      "Camera": "50MP Main + 48MP Ultra Wide + 64MP Telephoto",
+      "Battery": "5400mAh",
+      "5G": "Yes",
+      "Weight": "7.76 oz"
+    },
+    "stock": 25
+  },
+  {
+    "name": "Sony 65-inch BRAVIA XR A95L OLED 4K",
+    "brand": "Sony",
+    "category": "TVs",
+    "price": 2999,
+    "images": ["https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6543/6543522_sd.jpg"],
+    "specifications": {
+      "Screen Size": "65 inches",
+      "Resolution": "4K (3840 x 2160)",
+      "Display Type": "QD-OLED",
+      "Refresh Rate": "120Hz",
+      "HDR": "Dolby Vision, HDR10, HLG",
+      "Smart Platform": "Google TV",
+      "HDMI Ports": "4"
+    },
+    "stock": 10
+  },
+  {
+    "name": "LG 55-inch C3 OLED 4K",
+    "brand": "LG",
+    "category": "TVs",
+    "price": 1399,
+    "images": ["https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6535/6535927_sd.jpg"],
+    "specifications": {
+      "Screen Size": "55 inches",
+      "Resolution": "4K (3840 x 2160)",
+      "Display Type": "OLED",
+      "Refresh Rate": "120Hz",
+      "HDR": "Dolby Vision, HDR10, HLG",
+      "Smart Platform": "webOS",
+      "HDMI Ports": "4"
+    },
+    "stock": 18
+  },
+  {
+    "name": "Samsung 65-inch QN90C Neo QLED 4K",
+    "brand": "Samsung",
+    "category": "TVs",
+    "price": 1799,
+    "images": ["https://image-us.samsung.com/SamsungUS/home/televisions-and-home-theater/tvs/neo-qled-4k/04032023/QN65QN90CAFXZA_001_Front_Black.jpg"],
+    "specifications": {
+      "Screen Size": "65 inches",
+      "Resolution": "4K (3840 x 2160)",
+      "Display Type": "Neo QLED",
+      "Refresh Rate": "120Hz",
+      "HDR": "HDR10+, HLG",
+      "Smart Platform": "Tizen",
+      "HDMI Ports": "4"
+    },
+    "stock": 15
+  },
+  {
+    "name": "Sony WH-1000XM5 Wireless Headphones",
+    "brand": "Sony",
+    "category": "Headphones",
+    "price": 399,
+    "images": ["https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6505/6505727_sd.jpg"],
+    "specifications": {
+      "Type": "Over-Ear",
+      "Connectivity": "Bluetooth 5.2",
+      "Noise Cancellation": "Yes (Industry-leading ANC)",
+      "Battery Life": "Up to 30 hours",
+      "Driver Size": "30mm",
+      "Multipoint": "Yes"
+    },
+    "stock": 45
+  },
+  {
+    "name": "Bose QuietComfort Ultra Headphones",
+    "brand": "Bose",
+    "category": "Headphones",
+    "price": 429,
+    "images": ["https://assets.bose.com/content/dam/cloudassets/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc_ultra_headphones/product_silo_images/QC_Ultra_Headphones_Black_EC_001.png"],
+    "specifications": {
+      "Type": "Over-Ear",
+      "Connectivity": "Bluetooth 5.3",
+      "Noise Cancellation": "Yes (Immersive Audio)",
+      "Battery Life": "Up to 24 hours",
+      "Spatial Audio": "Yes",
+      "Multipoint": "Yes"
+    },
+    "stock": 30
+  },
+  {
+    "name": "AirPods Pro (2nd generation)",
+    "brand": "Apple",
+    "category": "Headphones",
+    "price": 249,
+    "images": ["https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6447/6447382_sd.jpg"],
+    "specifications": {
+      "Type": "In-Ear (True Wireless)",
+      "Connectivity": "Bluetooth",
+      "Noise Cancellation": "Yes (Active)",
+      "Battery Life": "Up to 6 hours (30 hours with case)",
+      "Chip": "H2",
+      "Spatial Audio": "Yes"
+    },
+    "stock": 60
+  },
+  {
+    "name": "Amazon Echo (4th Gen)",
+    "brand": "Amazon",
+    "category": "Smart Home",
+    "price": 99,
+    "images": ["https://m.media-amazon.com/images/I/71IBfOt3qjL._AC_SL1000_.jpg"],
+    "specifications": {
+      "Voice Assistant": "Alexa",
+      "Speaker": "Premium speakers with Dolby Audio",
+      "Smart Home Hub": "Built-in Zigbee hub",
+      "Audio": "360° audio",
+      "Connectivity": "Wi-Fi, Bluetooth"
+    },
+    "stock": 100
+  },
+  {
+    "name": "Google Nest Hub Max",
+    "brand": "Google",
+    "category": "Smart Home",
+    "price": 229,
+    "images": ["https://lh3.googleusercontent.com/MBX8jJPPyKVY9DZ2iMJm2NzCQc4wVNmRINDPEGU7d1Ykd8z8pN9lHJqRQLcFrQe_"],
+    "specifications": {
+      "Voice Assistant": "Google Assistant",
+      "Display": "10-inch touchscreen",
+      "Camera": "Nest Cam built-in",
+      "Audio": "High-excursion speaker",
+      "Connectivity": "Wi-Fi, Bluetooth"
+    },
+    "stock": 50
+  },
+  {
+    "name": "Ring Video Doorbell Pro 2",
+    "brand": "Ring",
+    "category": "Smart Home",
+    "price": 249,
+    "images": ["https://m.media-amazon.com/images/I/51xkh+V6+RL._AC_SL1000_.jpg"],
+    "specifications": {
+      "Video Quality": "1536p HD",
+      "Field of View": "150° horizontal, 150° vertical",
+      "Two-Way Talk": "Yes",
+      "Night Vision": "Yes",
+      "Motion Detection": "Advanced 3D Motion Detection",
+      "Power": "Hardwired"
+    },
+    "stock": 40
+  }
+]

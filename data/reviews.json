@@ -1,0 +1,27 @@
+{
+  "MacBook Pro 16-inch M3 Pro": [
+    { "rating": 5, "title": "Best laptop I've ever owned", "content": "The M3 Pro chip is incredibly fast. Battery life is amazing, easily lasts a full work day. The display is stunning.", "helpful": 45 },
+    { "rating": 5, "title": "Worth every penny", "content": "Expensive but worth it for creative work. Video editing is smooth even with 4K footage.", "helpful": 32 },
+    { "rating": 4, "title": "Great but heavy", "content": "Performance is excellent but it's a bit heavy for daily carrying. Still, best MacBook yet.", "helpful": 18 }
+  ],
+  "Dell XPS 15": [
+    { "rating": 5, "title": "Perfect Windows laptop", "content": "Beautiful display, excellent build quality, and great performance. Best Windows laptop on the market.", "helpful": 52 },
+    { "rating": 4, "title": "Solid choice", "content": "Very fast and well-built. Battery could be better but overall a great machine.", "helpful": 28 },
+    { "rating": 5, "title": "Love the screen", "content": "The display is absolutely gorgeous. Perfect for photo editing and watching movies.", "helpful": 21 }
+  ],
+  "iPhone 15 Pro Max": [
+    { "rating": 5, "title": "Camera is incredible", "content": "The new camera system is a huge upgrade. Night mode photos are stunning.", "helpful": 89 },
+    { "rating": 5, "title": "Best iPhone ever", "content": "Titanium build feels premium. Battery easily lasts all day with heavy use.", "helpful": 67 },
+    { "rating": 4, "title": "Great but expensive", "content": "Excellent phone in every way, just wish it wasn't so pricey.", "helpful": 43 }
+  ],
+  "Samsung Galaxy S24 Ultra": [
+    { "rating": 5, "title": "Android flagship done right", "content": "The S Pen integration is fantastic. Camera quality rivals the best out there.", "helpful": 71 },
+    { "rating": 5, "title": "Best Android phone", "content": "Fast, beautiful display, amazing cameras. Can't ask for more from a smartphone.", "helpful": 58 },
+    { "rating": 4, "title": "Impressive but big", "content": "Love everything about it except the size. It's quite large for one-handed use.", "helpful": 34 }
+  ],
+  "Sony WH-1000XM5 Wireless Headphones": [
+    { "rating": 5, "title": "Best noise cancelling ever", "content": "The ANC is truly industry-leading. Perfect for flights and busy offices.", "helpful": 102 },
+    { "rating": 5, "title": "Incredible sound quality", "content": "Rich, detailed sound. Battery lasts forever. Comfortable for long listening sessions.", "helpful": 78 },
+    { "rating": 4, "title": "Great but pricey", "content": "Excellent headphones but expensive. Worth it if you fly often.", "helpful": 45 }
+  ]
+}

@@ -1,0 +1,7 @@
+[
+  { "name": "Laptops", "parentId": null },
+  { "name": "Smartphones", "parentId": null },
+  { "name": "TVs", "parentId": null },
+  { "name": "Headphones", "parentId": null },
+  { "name": "Smart Home", "parentId": null }
+]
